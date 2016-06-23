@@ -1,0 +1,217 @@
+Exception:http://toutiao.io/prev/2014-09-30 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4','头条精选',4) PRIMARY KEY must be unique
+Exception:other err:http://toutiao.io/prev/2014-10-25  网址非法,无法连接: http://toutiao.io/prev/2014-10-25
+Exception:io err:http://toutiao.io/prev/2014-10-25
+Exception:other err:http://toutiao.io/prev/2014-10-26  网址非法,无法连接: http://toutiao.io/prev/2014-10-26
+Exception:io err:http://toutiao.io/prev/2014-10-26
+Exception:other err:http://toutiao.io/prev/2015-01-02  网址非法,无法连接: http://toutiao.io/prev/2015-01-02
+Exception:io err:http://toutiao.io/prev/2015-01-02
+Exception:other err:http://toutiao.io/prev/2015-01-03  网址非法,无法连接: http://toutiao.io/prev/2015-01-03
+Exception:io err:http://toutiao.io/prev/2015-01-03
+Exception:other err:http://toutiao.io/prev/2015-01-25  网址非法,无法连接: http://toutiao.io/prev/2015-01-25
+Exception:io err:http://toutiao.io/prev/2015-01-25
+Exception:http://toutiao.io/prev/2015-02-09 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/33','Awesome Qix',33) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-10 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/268','libfeihu【知无涯】',268) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-07 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/21','Docker',21) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-09 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/241','Android笔记',241) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/237','枯木-Linux的主题',237) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-07 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/61','Node.js 与 AngularJS 分享',61) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-11 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/339','micweaver的主题',339) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-13 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/283','蓝雪沙的主题',283) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-09 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/206','运维精选',206) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/373','胖民工的主题',373) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-15 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/452','安卓同学',452) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-09 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/232','半饱半醉的主题',232) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/351','不是流汗羊的主题',351) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-07 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/50','justbilt的主题',50) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-14 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/338','PhiloGopher',338) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-10 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/293','bang的主题',293) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-09 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/200','降龙_WH的主题',200) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/531','你猜我猜不猜猜你是谁的主题',531) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/589','程序员学架构',589) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-01 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/388','wapeyang的默认主题',388) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-02 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/28','jingPlus',28) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-11 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/764','13路公交车的主题',764) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-10 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1','lxneng的主题',1) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/519','寒江不钓',519) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-27 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/32','逸水流觞的主题',32) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/564','geniehack的主题',564) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-08 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/117','技术小黑屋',117) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-01 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/523','码农的自我修养',523) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-02 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/41','coderyi9的主题',41) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/245','李-亚--飞的主题',245) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/513','秋晓桃的主题',513) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-14 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/740','Pikachu',740) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-27 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/69','Keep Writing Codes',69) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-04 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/561','前端成长手册',561) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-11 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/796','一亩三分地',796) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-27 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/550','拴萝卜的棍子的主题',550) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/528','游戏开发杂货铺',528) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-13 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/820','0422的主题',820) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-10 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/766','simaopig的主题',766) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/16521','移动开发技术',16521) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-18 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/941','给开发者的一锅乱炖',941) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-19 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/353','feixiao2020的主题',353) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-16 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/202','·的主题',202) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-20 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/999','一只程序媛',999) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/391','类库大魔王',391) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-02-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/525','百度是美国的的主题',525) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-24 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1090','北冥有鱼的主题',1090) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-21 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/996','米雪儿侬好的cenalulu的主题',996) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-11 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/780','goddyzhao的主题',780) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-10 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/19','并发编程网站',19) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-24 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1083','波斯狗儿的主题',1083) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-22 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1060','oilbeater的主题',1060) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-20 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/998','技术日报',998) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-18 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/948','foxmailed的主题',948) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-24 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1095','汪汪汪不是我的语言的主题',1095) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/806','Q的主题',806) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-19 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/964','郭文圣的主题',964) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-27 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/114','编程文章精选',114) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-04 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1408','将你的Vim打造成轻巧强大的 IDE',1408) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-01 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1314','Anonymous的默认主题',1314) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-13 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/681','扁豆焖面技术小窝',681) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1164','IT民工的主题',1164) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-27 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1179','爬坑之路',1179) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-02 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1353','前端工程手册',1353) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-21 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1011','阿鲁卡多_Bear的主题',1011) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-04 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1391','秃萝卜的iOS之路',1391) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-31 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1294','Aurthur开发小知识',1294) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1216','Milhouseの道具箱',1216) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-02 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1293','冯星V的主题',1293) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-07 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1549','Myautsai的主题',1549) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-20 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/975','戎码一生',975) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-03 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1385','Gopher Teahouse',1385) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-01 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1322','codeKK的主题',1322) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-10 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1844','非计算机科学家非艺术家haochuan的主题',1844) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-04 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/786','Hyperion的主题',786) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-18 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/931','学习编程',931) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-01 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/308','即时光影的主题',308) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-03 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1390','鲁鲁修的主题',1390) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-09 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1771','余博伦是讨厌鬼的主题',1771) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1908','Swift on iOS',1908) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-15 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2093','炼金郎中的主题',2093) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-03-31 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1289','青竹_newghost的主题',1289) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1875','佐井的主题',1875) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-19 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/210','南京码帝',210) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-20 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1457','MrSimp1e的主题',1457) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-15 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2122','羽寒的主题',2122) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-19 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/36','技术之路',36) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/535','liuchang的主题',535) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-21 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2393','arccode的主题',2393) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-15 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2123','_謝小謝同學的主题',2123) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-22 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2315','捣蛋大魔王的主题',2315) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-08 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1721','玉令天下的Blog',1721) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1898','个人笔记',1898) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-23 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2560','Developer',2560) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-08 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1048','SDNLAB——专注网络创新技术的先锋媒体和实践平台',1048) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-07 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1489','垂天之云76的主题',1489) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-24 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2569','archieyang的主题',2569) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-25 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/646','Hello World',646) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-15 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2129','xcatliu的主题',2129) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-25 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2639','PM 周刊',2639) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-23 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2500','Java技术文章---泥瓦匠',2500) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-25 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1449','佐佑的主题',1449) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2356','透彻理解计算机',2356) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-29 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2761','jsser的主题',2761) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-10 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1146','chenge微博谈的主题',1146) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-25 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2198','开发技术前线',2198) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2782','ghosert的主题',2782) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-02 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2147','江南白衣的小报',2147) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3','Miclle的主题',3) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-17 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2211','三生_七世的主题',2211) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2542','根号3的主题',2542) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-05 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3108','后知后觉的主题',3108) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-06 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3150','pigpdong的主题',3150) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-22 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2457','isao的主题',2457) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-07 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/642','Self-Driven Developer',642) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-29 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2750','梅小西overfly的主题',2750) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/284','李校长o_0~~的主题',284) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-03 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2957','NLPJob',2957) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-02 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2949','DockerOne的主题',2949) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-27 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2705','糯米先生︶￣的主题',2705) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-07 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/991','服务端分享',991) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-06 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2919','尽管是上上签可还是放不下的主题',2919) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-04 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2726','siddontang的主题',2726) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2663','CIPHER的主题',2663) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-11 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/458','小弧光黑板报',458) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-27 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2702','愤怒的小强_孙林的主题',2702) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-13 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2224','后端和iOS集中营',2224) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-15 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3485','赵伊凡的主题',3485) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-04 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/429','benben_bear的主题',429) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-11 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3427','我是抑郁症患者_的主题',3427) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-05 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/115','PHP和创业那些事儿',115) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-12 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3404','GavinCT的主题',3404) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-04 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3050','WEB前端',3050) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-15 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2440','非典型博士',2440) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-11 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3430','Django 学习分享',3430) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-06 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2737','patrick_lzhao的主题',2737) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-21 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3914','技术的趣味',3914) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-19 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3519','126975的默认主题',3519) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-04-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2745','liaolinbo的主题',2745) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-23 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4046','saymagic的主题',4046) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-24 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4074','PHP架构思考',4074) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-23 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4044','小怪博士的主题',4044) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-25 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/292','茶歇驿站',292) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-18 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3784','JS 101',3784) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-11 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2619','tzucheng本尊的主题',2619) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4167','ixirong的主题',4167) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-14 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3614','众神退下的主题',3614) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-22 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3975','王_晓磊的主题',3975) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-27 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/727','从小工到专家',727) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-29 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4109','Phodal',4109) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-25 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3720','跳跳的笔记',3720) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-31 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4168','HyperNova的主题',4168) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-23 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4033','featherland的主题',4033) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-21 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3935','InfoQ',3935) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-22 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4001','愚安的主题',4001) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-29 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4250','前端小抄',4250) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-20 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3116','闷骚乔巴的主题',3116) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-23 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4049','hacke2的主题',4049) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4184','brainy的主题',4184) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-27 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4211','MForever78的主题',4211) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-02 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4430','樂天笔记',4430) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-30 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3000','曾锐/kf的主题',3000) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-01 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4481','马云腾的主题',4481) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-03 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4528','叮垚咚之的主题',4528) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-31 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4275','Android进阶开发快速正确姿势',4275) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-25 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1955','非主牛创业者的主题',1955) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4149','你牵别人的手继续走不回头的主题',4149) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-21 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3943','AnkerLee_的主题',3943) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-29 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2634','Kris的主题',2634) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-24 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4066','TesterHome精华帖',4066) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-01 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4482','吕炜桢的主题',4482) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-02 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4522','960px设计分享的主题',4522) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-05 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2466','非全栈攻城师',2466) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-25 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4114','来自巴格达的土土哥的主题',4114) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-23 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4009','HelloDog',4009) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-20 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1639','no13bus的主题',1639) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-08 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/45','平安的主题',45) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1145','React学习',1145) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-23 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3993','荣小松的主题',3993) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-07 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1221','深入浅出ES6',1221) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-03 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/1828','wangyan9110的主题',1828) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-09 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4755','三高:高可用高性能高并发',4755) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-31 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4350','bugmaker的主题',4350) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-25 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/7','技术碎片',7) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-06 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4051','兰穆达的主题',4051) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-04 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/2741','滴水藏海的主题',2741) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-30 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/347','BirdEggegg的主题',347) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-05 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4527','张志鹏yi的主题',4527) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-10 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4944','后端技术杂谈',4944) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-26 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4177','堂吉诃德与四十大盗的主题',4177) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-09 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4878','淘宝信海龙的主题',4878) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-27 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/559','小小小强的主题',559) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-04 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4599','野风吹的主题',4599) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-10 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4905','Gevin share',4905) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-07 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4772','安卓知识库',4772) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-03 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4569','lxjwlt的主题',4569) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4299','努力de猴子的主题',4299) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-06-05 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4643','田浩浩@DockOne的分享',4643) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/4281','肥三的主题',4281) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2015-05-28 数据库执行错误!INSERT INTO AUTHOR(URL,NAME,ID)VALUES('http://toutiao.io/subjects/3801','程序员俱乐部的主题',3801) PRIMARY KEY must be unique
+Exception:http://toutiao.io/prev/2016-02-22 数据库执行错误!For input string: ""
+Exception:http://toutiao.io/prev/2016-03-01 数据库执行错误!For input string: ""
+Exception:http://toutiao.io/prev/2016-02-25 数据库执行错误!For input string: ""
+Exception:other err:http://toutiao.io/prev/2016-06-03  网址非法,无法连接: http://toutiao.io/prev/2016-06-03
+Exception:io err:http://toutiao.io/prev/2016-06-03
+ceshi
